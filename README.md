@@ -74,13 +74,17 @@ An **Online Library Management System** built as a full-stack CRUD web applicati
 
 ## 📁 Project UI Screenshots
 
-<img width="1440" alt="Screenshot 2025-05-18 at 11 52 19 PM" src="https://github.com/user-attachments/assets/4d0e7f27-6f24-4c32-8882-f8a68dae890b" />
+<img width="1440" alt="Screenshot 2025-05-19 at 1 38 30 PM" src="https://github.com/user-attachments/assets/b6c39f5d-21e0-486d-b775-640fb84ef40b" />
 
-<img width="1440" alt="Screenshot 2025-05-18 at 11 52 47 PM" src="https://github.com/user-attachments/assets/b0e717c7-d2fe-45b9-89ea-43abef9c8216" />
+<img width="1440" alt="Screenshot 2025-05-19 at 1 39 20 PM" src="https://github.com/user-attachments/assets/1bb1e178-5c2f-41ed-9a3c-bbc831d91519" />
 
-<img width="1440" alt="Screenshot 2025-05-18 at 11 53 24 PM" src="https://github.com/user-attachments/assets/dd6044a9-92dd-46ab-a5e5-206b1a237301" />
+<img width="1440" alt="Screenshot 2025-05-19 at 1 39 40 PM" src="https://github.com/user-attachments/assets/c5988672-8d3b-42bf-8299-54377e992990" />
 
-<img width="1437" alt="Screenshot 2025-05-18 at 11 54 10 PM" src="https://github.com/user-attachments/assets/f2d3fd53-fbce-4b3b-90ae-d3f90da1ce20" />
+<img width="1439" alt="Screenshot 2025-05-19 at 1 40 44 PM" src="https://github.com/user-attachments/assets/b1ce854d-637d-432d-8e13-915dce797c7a" />
+
+<img width="1440" alt="Screenshot 2025-05-19 at 1 40 58 PM" src="https://github.com/user-attachments/assets/ac060214-9c44-440e-9380-26e61d2a1421" />
+
+
 
 ---
 
