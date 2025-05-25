@@ -18,7 +18,7 @@ An **Online Library Management System** built as a full-stack CRUD web applicati
 
 ## 👨‍💻 Creators
 
-- **Sujai Shanmugam (231ADB016)**
+- **Sujai Shanmugam (231ADB016) {Leader}**
 - **Gasim Jabrayilov (231ADB015)**
 - **Davyd Bogomolov (221ADB232)**
 - **Abbas Rzayev (211ADB023)**
